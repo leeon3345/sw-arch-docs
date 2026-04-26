@@ -1,2 +1,0 @@
-# sw-arch-docs
-docs
